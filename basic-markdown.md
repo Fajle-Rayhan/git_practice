@@ -41,18 +41,18 @@ Links:
 My favorite [Duck Duck Go](https://duckduckgo.com)  
 My favorite [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
-URLs and Email Addresses:
-<https://www.markdownguide.org>
+URLs and Email Addresses:  
+<https://www.markdownguide.org>  
 <fake@example.com>
 
-Formatting Links:
-I love supporting the **[EFF](https://eff.org)**.
-This is the *[Markdown Guide](https://www.markdownguide.org)*.
+Formatting Links:  
+I love supporting the **[EFF](https://eff.org)**.  
+This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).
 
 Image:  
-![Image](https://s1.cldup.com/corporate/images/one-click.png)
-![Image](https://s1.cldup.com/corporate/images/one-click.png "One click Image")
+![Image](https://s1.cldup.com/corporate/images/one-click.png)  
+![Image](https://s1.cldup.com/corporate/images/one-click.png "One click Image")  
 
 Linking Images:  
 [![Image](https://s1.cldup.com/corporate/images/one-click.png "One click Image")](https://s1.cldup.com/corporate/images/one-click.png)
